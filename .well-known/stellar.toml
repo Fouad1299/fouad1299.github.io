@@ -1,14 +1,15 @@
+
 VERSION = "2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME = "EN96"
 ORG_URL = "https://fouad1299.github.io"
-ORG_DESCRIPTION = "EN96 is a Stellar digital asset for virtual mining and community rewards."
+ORG_DESCRIPTION = "EN96 is a digital asset on Stellar for virtual mining and community rewards."
 
 [[CURRENCIES]]
 code = "EN96"
-issuer = "GBWLEH67H6HCH264IWJFL66CJYF34B7WEC4GSZQJZPDM23WVC6UKB7SJ"
+issuer = "GCUGIICUGBFC3KBPIFYAMPNA7OVJHGY277TNYTZUSG7EVVUCVACH3OGB"
 name = "EN96"
-desc = "EN96 is a digital asset on Stellar for virtual mining, tap-to-earn, and community rewards. Virtual mining is not real blockchain mining."
+desc = "EN96 is a digital asset on the Stellar network for virtual mining, tap-to-earn, and community rewards. Virtual mining is not real blockchain mining."
 display_decimals = 7
 image = "https://raw.githubusercontent.com/Fouad1299/en96/main/assets/a_crisp_high_resolution_photoreal_cgi_style_clos.png"
